@@ -102,3 +102,12 @@ Learning how to accelerate the application development process with text embeddi
 - Employed text embeddings for sentence and paragraph meaning
 - Used text embeddings for clustering, classification, and outlier detection
 - Built a question-answering system with Google Cloud’s Vertex AI
+
+### 12. How Business Thinkers Can Start Building AI Plugins With Semantic Kernel
+
+**Goal:**
+Learning Microsoft’s open source orchestrator, Semantic Kernel, and developing business applications using LLMs.
+
+- Learnt Microsoft’s open-source orchestrator, the Semantic Kernel
+- Developed a business planning and analysis skills while leveraging AI tools
+- Advanced skills in LLMs by using memories, connectors, chains, and more
