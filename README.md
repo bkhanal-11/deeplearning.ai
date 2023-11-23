@@ -111,3 +111,12 @@ Learning Microsoft’s open source orchestrator, Semantic Kernel, and developing
 - Learnt Microsoft’s open-source orchestrator, the Semantic Kernel
 - Developed a business planning and analysis skills while leveraging AI tools
 - Advanced skills in LLMs by using memories, connectors, chains, and more
+
+### 13. Functions, Tools and Agents with LangChain
+
+**Goal:**
+Learning and applying the new capabilities of LLMs as a developer tool.
+
+- Learnt about the most recent advancements in LLM APIs.
+- Used LangChain Expression Language (LCEL), a new syntax to compose and customize chains and agents faster.
+- Applied these new capabilities by building up a conversational agent.
