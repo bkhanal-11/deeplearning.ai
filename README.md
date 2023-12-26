@@ -120,3 +120,21 @@ Learning and applying the new capabilities of LLMs as a developer tool.
 - Learnt about the most recent advancements in LLM APIs.
 - Used LangChain Expression Language (LCEL), a new syntax to compose and customize chains and agents faster.
 - Applied these new capabilities by building up a conversational agent.
+
+### 14. Building and Evaluating Advanced RAG Applications
+
+**Goal:**
+Learning how to efficiently bring Retrieval Augmented Generation (RAG) into production by enhancing retrieval techniques and mastering evaluation metrics.
+
+- Learnt methods like sentence-window retrieval and auto-merging retrieval, improving RAG pipeline’s performance beyond the baseline.
+- Learnt evaluation best practices to streamline process, and iteratively build a robust system.
+- Dived into the RAG triad for evaluating the relevance and truthfulness of an LLM’s response: *Context Relevance, Groundedness, and Answer Relevance*.
+
+### 15. Vector Databases: from Embeddings to Applications
+
+**Goal:**
+Designing and executing real-world applications of vector databases.
+
+- Built efficient, practical applications, including hybrid and multilingual searches, for diverse industries.
+- Understood vector databases and used them to develop GenAI applications without needing to train or fine-tune an LLM.
+- Learnt to discern when best to apply a vector database to an application.
