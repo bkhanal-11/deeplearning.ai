@@ -138,3 +138,22 @@ Designing and executing real-world applications of vector databases.
 - Built efficient, practical applications, including hybrid and multilingual searches, for diverse industries.
 - Understood vector databases and used them to develop GenAI applications without needing to train or fine-tune an LLM.
 - Learnt to discern when best to apply a vector database to an application.
+
+### 16. Reinforcement Learning from Human Feedback
+
+**Goal:**
+A conceptual and hands-on introduction to tuning and evaluating large language models (LLMs) using Reinforcement Learning from Human Feedback.
+
+- Got a conceptual understanding of Reinforcement Learning from Human Feedback (RLHF), as well as the datasets needed for this technique
+- Fine-tuned the Llama 2 model using RLHF with the open source Google Cloud Pipeline Components Library
+- Evaluated tuned model performance against the base model with evaluation methods
+
+### 17. Quality and Safety for LLM Applications
+
+**Goal:**
+Learning how to evaluate the safety and security of a LLM applications and protect against potential risks.
+
+- Monitored and enhance security measures over time to safeguard LLM applications.
+- Detected and prevented critical security threats like hallucinations, jailbreaks, and data leakage.
+- Explored real-world scenarios to prepare for potential risks and vulnerabilities.
+
