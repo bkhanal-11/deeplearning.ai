@@ -157,3 +157,11 @@ Learning how to evaluate the safety and security of a LLM applications and prote
 - Detected and prevented critical security threats like hallucinations, jailbreaks, and data leakage.
 - Explored real-world scenarios to prepare for potential risks and vulnerabilities.
 
+### 18. Advanced Retrieval for AI with Chroma
+
+**Goal:**
+Learning advanced retrieval techniques to improve the relevancy of retrieved results.
+
+- Learnt to recognize when queries are producing poor results.
+- Learnt to use a large language model (LLM) to improve queries.
+- Learnt to fine-tune embeddings with user feedback.
