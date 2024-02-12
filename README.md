@@ -165,3 +165,13 @@ Learning advanced retrieval techniques to improve the relevancy of retrieved res
 - Learnt to recognize when queries are producing poor results.
 - Learnt to use a large language model (LLM) to improve queries.
 - Learnt to fine-tune embeddings with user feedback.
+
+### 19. Building Applications with Vector Databases
+
+**Goal:**
+Learning to build six applications powered by vector databases: semantic search, retrieval augmented generation (RAG), anomaly detection, hybrid search, image similarity search, and recommender systems, each using a different dataset.
+
+- Learnt to create six exciting applications of vector databases and implement them using Pinecone.
+- Built a hybrid search app that combines both text and images for improved multimodal search results.
+- Learnt how to build an app that measures and ranks facial similarity.
+
