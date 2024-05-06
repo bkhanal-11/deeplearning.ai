@@ -175,3 +175,12 @@ Learning to build six applications powered by vector databases: semantic search,
 - Built a hybrid search app that combines both text and images for improved multimodal search results.
 - Learnt how to build an app that measures and ranks facial similarity.
 
+### 20. Knowledge Graphs for RAG
+
+**Goal:**
+Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications.
+
+- Used Neo4j’s query language Cypher to manage and retrieve data stored in knowledge graphs.
+- Wrote knowledge graph queries that find and format text data to provide more relevant context to LLMs for Retrieval Augmented Generation.
+- Built a question-answering system using Neo4j and LangChain to chat with a knowledge graph of structured text documents.
+
