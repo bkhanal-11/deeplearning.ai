@@ -193,4 +193,13 @@ Learning how to easily build AI applications using open source models and Huggin
 - Wrote just a few lines of code using the transformers library to perform text, audio, image, and multimodal tasks.
 - Learnt about sharing AI apps with a user-friendly interface or via API and ran them on the cloud using Gradio and Hugging Face Spaces.
 
+### 22. Prompt Engineering with Llama 2 \& 3
+
+**Goal:**
+Learning best practices for prompting and selecting among Meta Llama 2 & 3 models.
+
+- Learnt best practices specific to prompting Llama 2 & 3 models.
+- Interacted with Meta Llama 2 Chat, Code Llama, and Llama Guard models.
+- Learnt to build safe, responsible AI applications using the Llama Guard model.
+
 
