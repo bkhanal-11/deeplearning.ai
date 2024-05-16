@@ -178,9 +178,19 @@ Learning to build six applications powered by vector databases: semantic search,
 ### 20. Knowledge Graphs for RAG
 
 **Goal:**
-Learn how to build and use knowledge graph systems to improve your retrieval augmented generation applications.
+Learning how to build and use knowledge graph systems to improve your retrieval augmented generation applications.
 
 - Used Neo4j’s query language Cypher to manage and retrieve data stored in knowledge graphs.
 - Wrote knowledge graph queries that find and format text data to provide more relevant context to LLMs for Retrieval Augmented Generation.
 - Built a question-answering system using Neo4j and LangChain to chat with a knowledge graph of structured text documents.
+
+### 21. Open Source Models with Hugging Face
+
+**Goal:**
+Learning how to easily build AI applications using open source models and Hugging Face tools.
+
+- Found and filtered open source models on Hugging Face Hub based on task, rankings, and memory requirements.
+- Wrote just a few lines of code using the transformers library to perform text, audio, image, and multimodal tasks.
+- Learnt about sharing AI apps with a user-friendly interface or via API and ran them on the cloud using Gradio and Hugging Face Spaces.
+
 
