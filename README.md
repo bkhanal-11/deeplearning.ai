@@ -202,4 +202,21 @@ Learning best practices for prompting and selecting among Meta Llama 2 & 3 model
 - Interacted with Meta Llama 2 Chat, Code Llama, and Llama Guard models.
 - Learnt to build safe, responsible AI applications using the Llama Guard model.
 
+### 23. Preprocessing Unstructured Data for LLM Applications
+
+**Goal:**
+Improving your RAG system to retrieve diverse data types
+
+- Learnt to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, Word, and HTML files, tables, and images to expand the information accessible to LLM.
+- Learnt to enrich content with metadata, enhancing retrieval augmented generation (RAG) results and supporting more nuanced search capabilities.
+- Explored document image analysis techniques like layout detection and vision and table transformers, and learn how to apply these methods to preprocess PDFs, images, and tables.
+
+## 24. Quantization Fundamentals with Hugging Face
+
+**Goal:**
+Learning how to quantize any open source model.
+
+- Learnt how to compress models with the Hugging Face Transformers library and the Quanto library.
+- Learnt about linear quantization, a simple yet effective method for compressing models.
+- Practiced quantizing open source multimodal and language models.
 
